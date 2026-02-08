@@ -1,6 +1,6 @@
 # KJF-Scholarship-Applicants-State-2025
 
-
+<img src="./KJFTableauPreview.png"/>
 
 Overview of 110 applications for the KJF scholarship in the year 2025.  
 States with the most applicants (identified): 
